@@ -10,4 +10,6 @@
 
 {include 'file:chunks/sections/section-main-project.tpl'}
 
+{include 'file:chunks/sections/section-main-benefit.tpl'}
+
 {/block}
