@@ -16,7 +16,7 @@
 				<div class="callback__text">УВАГА! Персональні данні не розголошуються та не передаються стороннім
 					особам. Ми
 					піклуємося про вашу конфіденційність</div>
-				{include 'file:chunks/callback/callback-form.tpl'}
+				{include 'file:chunks/callback/callback-box.tpl'}
 			</div>
 		</div>
 	</div>
