@@ -14,6 +14,7 @@
 			'parents'=> 2,
 			'level'=> '1',
 			'tpl'=> '@FILE chunks/menu/menu-main-item.tpl',
+			'tplHere'=> '@FILE chunks/menu/menu-main-item-active.tpl',
 			'tplOuter'=>'@INLINE {{+wrapper}}'
 			])}
 		</div>
