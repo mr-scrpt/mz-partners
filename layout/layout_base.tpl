@@ -6,6 +6,7 @@
 	{include 'file:chunks/header/header.tpl'}
 	{include 'file:chunks/line/menu-line.tpl'}
 	{block 'content'}{/block}
+	{include 'file:chunks/sections/section-callback.tpl'}
 	{include 'file:chunks/scripts/scripts.tpl'}
 	{include 'file:chunks/footer/footer.tpl'}
 </body>

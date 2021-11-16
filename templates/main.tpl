@@ -6,10 +6,12 @@
 
 {include 'file:chunks/sections/section-main-competence.tpl'}
 
-{include 'file:chunks/sections/section-main-principle.tpl'}
+{include 'file:chunks/sections/section-common-principle.tpl'}
 
 {include 'file:chunks/sections/section-main-project.tpl'}
 
-{include 'file:chunks/sections/section-main-benefit.tpl'}
+{include 'file:chunks/sections/section-common-benefit.tpl'}
+
+{include 'file:chunks/sections/section-common-how-works.tpl'}
 
 {/block}
