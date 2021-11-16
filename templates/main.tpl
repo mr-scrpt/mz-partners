@@ -4,7 +4,7 @@
 {include 'file:chunks/sections/section-main-banner.tpl'}
 {include 'file:chunks/sections/section-main-social-line.tpl'}
 
-{include 'file:chunks/sections/section-main-competence.tpl'}
+{include 'file:chunks/sections/section-common-competence.tpl'}
 
 {include 'file:chunks/sections/section-common-principle.tpl'}
 
